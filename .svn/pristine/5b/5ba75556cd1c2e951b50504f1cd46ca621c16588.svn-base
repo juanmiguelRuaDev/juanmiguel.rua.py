@@ -1,0 +1,10 @@
+'''
+Created on 10/04/2012
+
+@author: jmrua
+'''
+import sys
+
+
+if __name__ == "__main__":
+    print 'Hello World'
